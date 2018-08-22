@@ -1,0 +1,12 @@
+2018-08-22 14:54:35.371255
+Parameters for seed detection: Gaussian filter - ON, Filter val - 2.5, Blue cutoff - 50, Z cutoff - 3.0
+Parameters for root detection: Z cutoff - 1.5, Blue cutoff - 27%, Brithness - 130, Minimum root size  - 10 pixels
+
+Field: test_image_section8 seed No.: 78  root No.: 20  germinated: 25.6 %
+Field: test_image_section1 seed No.: 109  root No.: 44  germinated: 40.4 %
+Field: test_image_section2 seed No.: 103  root No.: 45  germinated: 43.7 %
+Field: test_image_section3 seed No.: 125  root No.: 61  germinated: 48.8 %
+Field: test_image_section7 seed No.: 75  root No.: 4  germinated: 5.3 %
+Field: test_image_section6 seed No.: 93  root No.: 3  germinated: 3.2 %
+Field: test_image_section4 seed No.: 100  root No.: 13  germinated: 13.0 %
+Field: test_image_section5 seed No.: 93  root No.: 1  germinated: 1.1 %
